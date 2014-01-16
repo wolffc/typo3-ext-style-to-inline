@@ -1,0 +1,14 @@
+{
+    "name": "cwolff/stylestoinline",
+    "description": "Typo3 Extension Styles to Inline ViewHelper",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Christian Wolff",
+            "email": "chris@connye.com"
+        }
+    ],
+    "require": {
+        "tijsverkoyen/css-to-inline-styles": "1.*"
+    }
+}
