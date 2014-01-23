@@ -5,8 +5,8 @@ Extension Manual
 Example Usage
 =============
 This Extension Provides a View Helper usage is simple:
+
 .. code-block:: html
-    :linenos:
 	{namespace sti=Tx_Stylestoinline_ViewHelpers}
 	<sti:StylesToInline styles="EXT:my_extension_key/Resources/Public/CSS/Style.css">
 	<html>
@@ -23,7 +23,9 @@ This Extension Provides a View Helper usage is simple:
 	</sti:StylesToInline>
 
 The Generated Output Dependend on your Style.css might be look semilar to this
-"""
+
+::
+
 	<html>
 		<head>
 			<title>Example HTML</title>
@@ -35,5 +37,5 @@ The Generated Output Dependend on your Style.css might be look semilar to this
 			</div>
 		</body>
 	</html>
-"""
+
 
