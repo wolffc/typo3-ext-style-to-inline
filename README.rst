@@ -40,3 +40,31 @@ The Generated Output Dependend on your Style.css might be look semilar to this
   </html>
 
 
+Found a bug
+===========
+please Report the bug at the github repositior<
+https://github.com/wolffc/typo3-ext-style-to-inline/issues
+
+
+Source code on Github
+=====================
+the soruce code can be found at:
+https://github.com/wolffc/typo3-ext-style-to-inline/
+
+to install this extension from source code you have to do the following steps:
+
+  # clone the repository
+  git clone git@github.com:wolffc/typo3-ext-style-to-inline.git stylestoinline
+  # change into the extension directory
+  cd stylestoinline
+  # install third party libary using composer
+  composer install
+
+this extension uses composer to load a third party libary for the hard "work"
+as this is only a Light wrapper around the
+https://github.com/tijsverkoyen/CssToInlineStyles
+
+Documentation on composer can be found here: https://getcomposer.org/
+
+
+
