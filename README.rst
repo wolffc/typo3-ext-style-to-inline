@@ -42,7 +42,7 @@ The Generated Output Dependend on your Style.css might be look semilar to this
 
 Found a bug
 ===========
-please Report the bug at the github repositior<
+please Report the bug at the github repositiory
 https://github.com/wolffc/typo3-ext-style-to-inline/issues
 
 
@@ -52,6 +52,8 @@ the soruce code can be found at:
 https://github.com/wolffc/typo3-ext-style-to-inline/
 
 to install this extension from source code you have to do the following steps:
+
+::
 
   # clone the repository
   git clone git@github.com:wolffc/typo3-ext-style-to-inline.git stylestoinline
