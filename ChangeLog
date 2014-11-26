@@ -1,4 +1,10 @@
 
+Wed Nov 26 11:16:38 UTC 2014 Christian Wolff <cwolff@aer.de>
+RELEASE: Version 1.1.1
+
+Wed Nov 26 12:15:48 2014 +0100 Christian Wolff <cwolff@aer.de> 
+renamed composer.json / composer.lock as typo3 6.2 tryes to verfy the instalation of composer packages
+
 Tue Nov 25 11:56:02 UTC 2014 Christian Wolff <cwolff@aer.de>
 RELEASE: Version 1.1.0
 
